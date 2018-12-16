@@ -1,5 +1,5 @@
 ********************
-Dimension reduction
+### Dimension Reduction
 *******************
 1. Random Projection:
 
